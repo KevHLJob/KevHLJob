@@ -1,11 +1,10 @@
-### Hi there 👋
+### HELLO WORLD 👋
 
 
 
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, Java, CSharp, Vue],
    technologies: {
       frontEnd: {
