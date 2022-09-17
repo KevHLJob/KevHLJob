@@ -27,4 +27,4 @@ const aboutMe = {
 <a href='https://postimg.cc/c6bMjvxj' target='_blank'><img src='https://i.postimg.cc/c6bMjvxj/BADGE-2.png' border='0' alt='BADGE-2'/></a>
 <a href='https://postimg.cc/BPLDsCSz' target='_blank'><img src='https://i.postimg.cc/BPLDsCSz/Insignia-3.png' border='0' alt='Insignia-3'/></a>
 <a href='https://postimg.cc/Bt6DWc7c' target='_blank'><img src='https://i.postimg.cc/Bt6DWc7c/E-commerce.png' border='0' alt='E-commerce'/></a>
-
+<a href='https://postimg.cc/rzWQtjFs' target='_blank'><img src='https://i.postimg.cc/rzWQtjFs/cms-files-10224-1659457997-Badge-JAVA-Alura-Challenge-Oracle-ONE-2000x2000-png.png' border='0' alt='cms-files-10224-1659457997-Badge-JAVA-Alura-Challenge-Oracle-ONE-2000x2000-png'/></a>
