@@ -1,6 +1,15 @@
 # 💫 About Me:
 KevDev
 
+# 🔰Badges
+<img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/5965c251-e377-4077-a559-e306be7f4a54" width="20%" height="20%" />
+<img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/0d9973d3-d77a-4a87-95c0-16507b74dfaa" width="20%" height="20%" />
+<img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/7e35a873-c3b6-47e9-86d0-6f44782e80ff" width="20%" height="20%" />
+<img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/f9941cab-0e1f-4ca4-818d-620ea1b5db58" width="20%" height="20%" />
+<img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/e7264906-6537-4c76-b3bb-9f556b945020" width="20%" height="20%" />
+<img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/f04910fe-c4ca-47d8-9290-85073cbb6bc5" width="20%" height="20%" />
+<img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/9e959982-4db8-4534-835f-eb4fffbd20fc" width="20%" height="20%" />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kevin-lópez-meza-5b3a3a213) 
