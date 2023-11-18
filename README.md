@@ -5,7 +5,6 @@ KevDev
 
 <img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/7e35a873-c3b6-47e9-86d0-6f44782e80ff" width="20%" height="20%" />
 <img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/f04910fe-c4ca-47d8-9290-85073cbb6bc5" width="20%" height="20%" />
-<img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/9e959982-4db8-4534-835f-eb4fffbd20fc" width="20%" height="20%" />
 <img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/b9b87abe-174e-4532-9c42-f77954268ee8" width="20%" height="20%" />
 
 ## Oracle Badge🔰
@@ -24,7 +23,8 @@ KevDev
 <img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/3182babb-502d-4879-b280-5feb19fd217a" width="20%" height="20%" />
 <img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/aa3740b4-c0ef-453b-bef3-3998fbe18c9b" width="20%" height="20%" />
 
-
+## Certiprof Badge🔰
+<img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/9e959982-4db8-4534-835f-eb4fffbd20fc" width="20%" height="20%" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/kevin-lópez-meza-5b3a3a213) 
