@@ -6,6 +6,9 @@ KevDev
 <img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/7e35a873-c3b6-47e9-86d0-6f44782e80ff" width="20%" height="20%" />
 <img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/f04910fe-c4ca-47d8-9290-85073cbb6bc5" width="20%" height="20%" />
 <img src="https://github.com/KevHLJob/KevHLJob/assets/61767060/b9b87abe-174e-4532-9c42-f77954268ee8" width="20%" height="20%" />
+<img src="https://github.com/user-attachments/assets/19039bd8-fc55-4495-94fb-7ca5016385f7" width="20%" height="20%"  />
+
+
 
 ## Oracle Badge🔰
 <img src="https://github.com/KevHLJob/project-pomodoro/assets/61767060/829ff122-f16f-4e46-a5c3-0515cece76ed" width="20%" height="20%" />
